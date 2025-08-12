@@ -7,4 +7,3 @@ gitpython==3.1.0
 sit-utils-py3==1.8.27
 requests
 Flask
-xlr
